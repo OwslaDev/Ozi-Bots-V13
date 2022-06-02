@@ -38,4 +38,5 @@ Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağ
 ![image](https://user-images.githubusercontent.com/92666466/168926684-81d2f61a-6b21-42fc-897f-d810b27dfaed.png)
 ![image](https://user-images.githubusercontent.com/92666466/168926690-4e92befd-34ed-4450-9415-f4abfb392a42.png)
 ![image](https://user-images.githubusercontent.com/92666466/168926705-7d6fe1b0-e61e-4f5a-8765-6265555e4b14.png)
+![image](https://user-images.githubusercontent.com/92666466/171621466-178734a1-1dd0-45cf-ad5e-4dfb11210e55.png)
 ![image](https://user-images.githubusercontent.com/92666466/168926711-1bee52e5-e73d-4e04-ab33-96d85065b041.png)
